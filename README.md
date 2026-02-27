@@ -1,0 +1,7 @@
+This project conducts a comprehensive Exploratory Data Analysis (EDA) on the provided dataset using Python-based data science libraries, including Pandas, NumPy, Matplotlib, and Seaborn. The objective of the analysis is to examine the dataset’s structural properties, statistical characteristics, and inter-variable relationships to gain preliminary insights before further analytical or predictive modeling.
+
+The dataset was initially assessed using structural inspection methods such as .shape(), .info(), and .describe() to evaluate dimensionality, data types, and summary statistics. Data preprocessing steps included identifying and handling missing values through appropriate imputation or removal techniques, as well as detecting and eliminating duplicate records to maintain data integrity.
+
+Univariate analysis was performed using histograms and boxplots to examine distribution patterns, central tendency, dispersion, skewness, and the presence of outliers. Bivariate analysis was conducted through correlation matrices and heatmaps to quantify linear relationships between numerical variables. Additionally, pairwise visualizations were used to observe interaction patterns and potential trends across features.
+
+The results of the EDA provide a foundational understanding of the dataset, highlighting key statistical patterns and relationships. These insights support informed decision-making and prepare the dataset for subsequent advanced analytics or machine learning modeling.
